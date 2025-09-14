@@ -1,2 +1,2 @@
 # memento-mori
-just some stuffs
+test
